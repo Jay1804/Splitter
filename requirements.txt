@@ -1,0 +1,4 @@
+streamlit==1.18.1
+pandas==2.0.2
+pywin32==305
+openpyxl>=3.0.10
